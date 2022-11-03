@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": "Tipo 1", "name": "Tipo 1" },
+    { "id": "Tipo 2", "name": "Tipo 2" }
+  ],
+  "totalItems": 2
+}
